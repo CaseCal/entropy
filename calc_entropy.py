@@ -5,4 +5,3 @@ def entropy(probs):
 
 	return -(probs - np.log(probs))
 
-Oops, an error!
